@@ -33,4 +33,11 @@
 
 ## (goss_замыкание)
 #### [ответ](https://kodaktor.ru/func_b3766)
+## (goss_безымянная рекурсия)
+#### [ответ](https://kodaktor.ru/func_10dc1)
+https://kodaktor.ru/func_10dc1
+
+# todoList
+#### [ответ](https://kodaktor.ru/frmw_f7f3e)
+
 
