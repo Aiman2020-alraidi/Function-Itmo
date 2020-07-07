@@ -35,7 +35,7 @@
 #### [ответ](https://kodaktor.ru/func_b3766)
 
 ## (goss_безымянная рекурсия)
-#### [ответ](https://kodaktor.ru/func_64936)
+#### [ответ](https://kodaktor.ru/func_4cf3b)
 
 # todoList
 #### [ответ](https://kodaktor.ru/frmw_f7f3e)
