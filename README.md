@@ -1,6 +1,6 @@
 # Function-Itmo
 ## (goss_concat)
-#### [ответ](https://kodaktor.ru/func_f681b)
+#### [ответ](https://kodaktor.ru/func_15d41)
 
 ## (goss_this)
 #### [ответ](https://kodaktor.ru/func_cf0a3)
