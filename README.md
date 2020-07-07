@@ -37,6 +37,9 @@
 ## (goss_безымянная рекурсия)
 #### [ответ](https://kodaktor.ru/func_4cf3b)
 
+##babel002
+####[ответ](https://kodaktor.ru/bind02032018_efb67)
+
 # todoList
 #### [ответ](https://kodaktor.ru/frmw_f7f3e)
 
