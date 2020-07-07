@@ -3,7 +3,7 @@
 #### [ответ](https://kodaktor.ru/func_f681b)
 
 ## (goss_this)
-#### [ответ](https://kodaktor.ru/func_0f823)
+#### [ответ](https://kodaktor.ru/func_cf0a3)
 
 
 ## (goss_импорт и bind))
